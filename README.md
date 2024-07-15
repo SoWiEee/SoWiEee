@@ -10,7 +10,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,c,cpp,cs,rust,py,dart,flutter,ai,ps,ae,postman )](https://skillicons.dev)
 
 # 📊 GitHub Stats
-[![SoWiEee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowieee)](https://github.com/sowieee/github-readme-stats)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowieee&layout=compact&theme=vue-dark)
+![SoWiEee's GitHub stats](https://github-readme-stats.vercel.app/api?username=sowieee&show_icons=true&theme=vue-dark)
 
