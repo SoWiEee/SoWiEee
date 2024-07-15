@@ -7,7 +7,7 @@
 </p>
 
 # 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vite,c,cpp,cs,rust,py,dart,flutter,ai,ps,ae,postman )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,vite,c,cpp,cs,rust,py,dart,flutter,ai,ps, )](https://skillicons.dev)
 
 # 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowieee&layout=compact&theme=vue-dark)
