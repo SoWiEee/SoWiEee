@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SoWiEee</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sriracha&size=22&pause=1000&center=true&vCenter=true&width=380&lines=A+CSIE+student+from+Taiwan" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sriracha&size=22&pause=1000&center=true&vCenter=true&width=380&lines=A+CSIE+student+from+Taiwan" alt="Typing SVG" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
